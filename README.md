@@ -1,0 +1,3 @@
+bitext-preprocessor.py is designed to take in NTs in 3 different languages. The input files need to be usfm titled 41.usfm-67.usfm. 
+The output is a 3-language "bi-text", a tritext? A series of CSV files (41-47) with index locations.
+Index locations are defined by biblical 8 digit. Matthew 2:3 is 41002003. First two digits identify the book, the next three the chapter, and the final three the verse. 
