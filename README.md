@@ -4,3 +4,6 @@ Index locations are defined by biblical 8 digit. Matthew 2:3 is 41002003. First 
 
 usfm_to_clean_txt.py is intended to take files 41.usfm to 67.usfm and convert them to one line for each verse in a .txt file. 
 Cleaning involves removing everything except letters and white spaces. Converted to all lowercase as well. 
+
+
+usfm_to_trigram.py is intended to take a usfm file and convert it to a trigram tokenized .txt file. Remove usfm markings. Tokenize as trigrams with punction their own token. 
